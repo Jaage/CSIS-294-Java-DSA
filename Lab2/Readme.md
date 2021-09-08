@@ -1,4 +1,4 @@
-This applicatoin is an interactive game where a user enters the merkle root of 4 words, and then must enter the 4 words one at a time while a Merkle and Rogue thread 
+This application is an interactive game where a user enters the merkle root of 4 words, and then must enter the 4 words one at a time while a Merkle and Rogue thread 
 simlutaneously attempt to grab the words. If the rogue thread grabs a word, the player receives a strike. 3 Strikes and you lose. Once the merkle thread grabs four words the
 program will check to see if the merkle root created by the 4 words matches the merkle root provided at the start.
 
